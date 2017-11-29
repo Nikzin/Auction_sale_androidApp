@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThechosenSevenAuction</string>
+    <string name="action_categories">Categories</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_email">EmailActivity</string>
+    <string name="About">Hej och välkommen till världens bästa auktions-app!
+    Här på Gunnars Auktioner värnar vi om högsta kvalitet på våra alla produkter. Vi vill att just du ska vara nöjd med ditt köp och
+    få just den produkten du alltid önskat dig. Lycka till!</string>
+</resources>
